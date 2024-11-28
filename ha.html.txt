@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Simple Webpage</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Simple Webpage</h1>
+    </header>
+
+    <main>
+        <p>Here is a things I like:</p>
+        <ul>
+            <li>gaming</li>
+            <li>car driving</li>
+            <li>Traveling</li>
+        </ul>
+    </main>
+</body>
+</html>
